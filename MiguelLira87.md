@@ -37,3 +37,7 @@ ATORES | REPRESENTAR O QUE CADA COISA FAZ
 CENÁRIO | SERVE PARA REPRESENTAR A INTERAÇÃO DOS USUARIOS COM O SISTEMA
 
 Obrigado pela Paciência
+
+![download](https://github.com/MiguelLira87/aulaMarkdown/assets/164503822/5e2f62b2-5e69-440e-ac31-4f7e1335cb61)
+
+
